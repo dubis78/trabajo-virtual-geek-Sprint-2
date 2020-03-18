@@ -26,7 +26,7 @@ else if(param1===false && param2>=0 && param3>=0 && param4>=0){
     console.log(printAnchoCont(param2,param3,param3));
     }
 else{
-    console.log('Valor igresado no valido'); 
+    console.log('Valor ingresado no valido'); 
 }
 
 /*function content(widht,paddig,border){

@@ -7,7 +7,7 @@ if(price>0){
     calcu(price);
     }
 else{
-        console.log('Valor igresado no valido'); 
+        console.log('Valor ingresado no valido'); 
     }
 
 function calcu(price){

@@ -9,7 +9,7 @@ if((num1 <=0 || num1>0) && (num2 <=0 || num2>0) && (num3 <=0 || num3>0) && (num4
 console.log('La media es: '+ media(num1,num2,num3,num4));
 }
 else{
-    console.log('Valor igresado no valido'); 
+    console.log('Valor ingresado no valido'); 
 }
 
 function media(num1,num2,num3,num4){

@@ -10,5 +10,5 @@ if((num1 <=0 || num1>0) && (num2 <=0 || num2>0)){
 console.log(multipl(num1,num2));
 }
 else{
-    console.log('Valor igresado no valido'); 
+    console.log('Valor ingresado no valido'); 
 }
